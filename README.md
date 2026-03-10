@@ -6,6 +6,8 @@ eMutuelle is a Spring Boot REST API for managing Rwanda's health insurance syste
 ## Student Information
 - **University:** Adventist University of Central Africa (AUCA)
 - **Course:** Web Technology and Internet
+- **Student Name:** MANZI Delphin
+- **Student ID:** 26021
 - **Year:** 2026
 
 ## Tech Stack
@@ -18,7 +20,7 @@ eMutuelle is a Spring Boot REST API for managing Rwanda's health insurance syste
 ## Database Configuration
 spring.datasource.url=jdbc:postgresql://localhost:5432/emutuelle
 spring.datasource.username=postgres
-spring.datasource.password=your_password
+spring.datasource.password=Dellon@123
 
 ## Entity Relationship Diagram
 The system uses 8 tables with the following relationships:
